@@ -1,9 +1,18 @@
 # GoldPredict AI — Flutter-only source starter
 
+<!-- <img src="assets/screen_shots/Screenshot_1795061131.png" width="200">
+<img src="assets/screen_shots/Screenshot_1795061143.png" width="200">
+<img src="assets/screen_shots/Screenshot_1795061151.png" width="200"> -->
 
-![](assets/screen_shots/Screenshot_1795061131.png)
+<p align="center">
+  <img src="assets/screen_shots/Screenshot_1795061131.png" width="200" alt="First image" />
+  <img src="assets/screen_shots/Screenshot_1795061143.png" width="200" alt="Second image" />
+  <img src="assets/screen_shots/Screenshot_1795061151.png" width="200" alt="Second image" />
+</p>
+
+<!-- ![](assets/screen_shots/Screenshot_1795061131.png)
 ![](assets/screen_shots/Screenshot_1795061143.png)
-![](assets/screen_shots/Screenshot_1795061151.png.png)
+![](assets/screen_shots/Screenshot_1795061151.png.png) -->
 
 
 Includes GetX dashboard, indicative INR/gram 24K spot quote, intraday chart, local SQLite storage, 15-minute OHLC candles, EMA 12/26, RSI 14, MACD, ATR, volatility approximation, momentum, 12h/24h statistical forecasts, and chronological walk-forward backtest metrics.
